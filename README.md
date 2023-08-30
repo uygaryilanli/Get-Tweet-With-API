@@ -1,11 +1,12 @@
 # Web-Scraping-With-API
 API Kullanarak Kolay Yoldan Web Kazıma
 
-#API DOSYALARI
+# API DOSYALARI
+
 -Twitter için = https://rapidapi.com/alexanderxbx/api/twitter-api45/
 -Google dökümanı düzenlemek için = https://dashboard.sheety.co/
 
-#YAPILACAKLAR
+# YAPILACAKLAR
 -Twitter api için yapmanız gereken tek şey, yukarıda vermiş olduğum siteden api nin ücretsiz versiyonuna abone olmak. Tabi, Rapid sitesine üye değilseniz önce siteye üye olun.
 -API programına abone olduktan sonra rapid host, key ve api nin size vermiş olduğu url bilgisini kopyalayıp, dosyalarda size belirtmiş olduğum yerlere yapıştırıcaksınız.
 -Sheety api için ise öncelikle sheety'nin sitesine gidip kayıt olacaksınız. Ardından, google dökümanlarına gidip kendinize excel dosyası oluşturun ve dosya başlıklarınızı parametre sözlüklerindeki "key" isimleriyle aynı olmasına önem verin.
