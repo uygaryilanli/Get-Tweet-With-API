@@ -23,7 +23,7 @@ class UserScreen:
         self.username_input = tkinter.Entry(width=25)
         self.username_input.place(x=245, y=375)
         #LABEL
-        self.username_input_label = tkinter.Label(text="Lütfen yukarıdaki alana bilgilerini çekmek istediğiniz bilginin ismini giriniz.")
+        self.username_input_label = tkinter.Label(text="Lütfen yukarıdaki alana çekmek istediğiniz tweetin ismini giriniz.")
         self.username_input_label.place(x=96, y=410)
         #BUTTON
         self.username_info_button = tkinter.Button(text="Gönder", width=21, command=lambda : self.tweet.get_tweet(tweet_serach=self.username_input))
